@@ -1,5 +1,5 @@
-# Instagram Post Exercise by 4Geeks Academy
+# Instagram Mockup Exercise by 4Geeks Academy
 
 ## Solved by me
 
-![Instagram Post Exercise by 4Geeks Academy](img/instagram-post-result.jpeg)
+![Instagram Mockyp Exercise by 4Geeks Academy](img/Instagram-Mockup-Result.jpg)
